@@ -5,6 +5,8 @@ Dokumentasi pembagian tugas anggota kelompok dalam pengembangan aplikasi pengelo
 Anggota Kelompok
 
 Farhan: Project setup, Putusan Model, Stack Audit, Search and Filter 
+
+
 Iman: Project Documentation, Dynamic Array, CSV Reader, Aggregation and Export 
 
 Kolaborasi
