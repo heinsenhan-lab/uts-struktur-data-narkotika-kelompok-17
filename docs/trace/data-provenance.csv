@@ -1,0 +1,801 @@
+case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+NARK-001,caseId,NARK-001,hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,1,automatic TXT extraction,,assigned-id
+NARK-001,nomorPerkara,104/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,2,automatic TXT extraction,,document-header
+NARK-001,pengadilan,Garut,hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,1,automatic TXT extraction,,document-header
+NARK-001,tanggalPutusan,2026-07-07,hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,51,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-001,terdakwaKode,Terdakwa-001,hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,1,automatic TXT extraction,,anonymized-id
+NARK-001,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-001,beratBarangBuktiGram,16.63309,hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-001,pasalDakwaan,Pasal 114 Ayat (2),hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-001,pasalTerbukti,Pasal 114 Ayat (2),hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,48,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-001,tuntutanBulan,60,hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-001,vonisBulan,42,hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,48,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-001,dendaRupiah,1000000000,hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,49,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-001,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kendaraan bermotor; kemasan/plastik,hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,48,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-001,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,48,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-001,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan.,hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,48,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-001,sourcePages,"2-3,48-51",hasil-ekstrasi/putusan_104_pid.sus_2026_pn_grt_20261105013756.txt,"2-3,48-51",automatic TXT extraction,,compiled-page-references
+NARK-002,caseId,NARK-002,hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,1,automatic TXT extraction,,assigned-id
+NARK-002,nomorPerkara,107/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,2,automatic TXT extraction,,document-header
+NARK-002,pengadilan,Garut,hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,1,automatic TXT extraction,,document-header
+NARK-002,tanggalPutusan,2026-06-11,hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,23,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-002,terdakwaKode,Terdakwa-002,hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,1,automatic TXT extraction,,anonymized-id
+NARK-002,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-002,beratBarangBuktiGram,4.87,hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-002,pasalDakwaan,Pasal 114 ayat (1),hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-002,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,21,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-002,tuntutanBulan,90,hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-002,vonisBulan,72,hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,21,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-002,dendaRupiah,1000000000,hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,21,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-002,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,21,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-002,keadaanMemberatkan,- Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran narkotika;,hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,21,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-002,keadaanMeringankan,- Terdakwa bersikap sopan dalam persidangan; - Terdakwa mengakui perbuatannya; - Terdakwa belum pernah dihukum;,hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,21,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-002,sourcePages,"2,21-23",hasil-ekstrasi/putusan_107_pid.sus_2026_pn_grt_20261105061700.txt,"2,21-23",automatic TXT extraction,,compiled-page-references
+NARK-003,caseId,NARK-003,hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,1,automatic TXT extraction,,assigned-id
+NARK-003,nomorPerkara,113/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,2,automatic TXT extraction,,document-header
+NARK-003,pengadilan,Garut,hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,1,automatic TXT extraction,,document-header
+NARK-003,tanggalPutusan,2026-06-24,hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-003,terdakwaKode,Terdakwa-003,hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,1,automatic TXT extraction,,anonymized-id
+NARK-003,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,1,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-003,beratBarangBuktiGram,1.6655,hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,4,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-003,pasalDakwaan,Pasal 114 ayat (1),hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,1,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-003,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-003,tuntutanBulan,96,hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-003,vonisBulan,96,hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-003,dendaRupiah,1500000000,hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-003,barangBukti,telepon genggam,hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-003,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran narkotika; - Terdakwa belum pernah dihukum;,hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,23,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-003,keadaanMeringankan,Tidak dicantumkan dalam putusan,hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,23,automatic TXT extraction,,not-found
+NARK-003,sourcePages,"1,23-25",hasil-ekstrasi/putusan_113_pid.sus_2026_pn_grt_20261105061548.txt,"1,23-25",automatic TXT extraction,,compiled-page-references
+NARK-004,caseId,NARK-004,hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,1,automatic TXT extraction,,assigned-id
+NARK-004,nomorPerkara,114/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,2,automatic TXT extraction,,document-header
+NARK-004,pengadilan,Garut,hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,1,automatic TXT extraction,,document-header
+NARK-004,tanggalPutusan,2026-07-23,hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-004,terdakwaKode,Terdakwa-004,hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,1,automatic TXT extraction,,anonymized-id
+NARK-004,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-004,beratBarangBuktiGram,1.6655,hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-004,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-004,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-004,tuntutanBulan,78,hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-004,vonisBulan,66,hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-004,dendaRupiah,1000000000,hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-004,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-004,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-004,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan.,hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-004,sourcePages,"2,27-30",hasil-ekstrasi/putusan_114_pid.sus_2026_pn_grt_20261105061318.txt,"2,27-30",automatic TXT extraction,,compiled-page-references
+NARK-005,caseId,NARK-005,hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,1,automatic TXT extraction,,assigned-id
+NARK-005,nomorPerkara,115/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,2,automatic TXT extraction,,document-header
+NARK-005,pengadilan,Garut,hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,1,automatic TXT extraction,,document-header
+NARK-005,tanggalPutusan,2026-07-21,hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-005,terdakwaKode,Terdakwa-005,hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,1,automatic TXT extraction,,anonymized-id
+NARK-005,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-005,beratBarangBuktiGram,4.6563,hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-005,pasalDakwaan,Pasal 114 Ayat (1) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-005,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-005,tuntutanBulan,60,hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-005,vonisBulan,48,hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-005,dendaRupiah,510000000,hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-005,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-005,keadaanMemberatkan,- Perbuatan Para Terdakwa telah merusak generasi anak bangsa; - Perbuatan Para Terdakwa tidak mendukung program Pemerintah dalam Pemberantasan peredaran gelap Narkotika;,hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-005,keadaanMeringankan,- Para Terdakwa bersikap sopan dan berterus terang selama proses persidangan; - Para Terdakwa belum pernah dihukum;,hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-005,sourcePages,"2-3,29-31",hasil-ekstrasi/putusan_115_pid.sus_2026_pn_grt_20261105061424.txt,"2-3,29-31",automatic TXT extraction,,compiled-page-references
+NARK-006,caseId,NARK-006,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,1,automatic TXT extraction,,assigned-id
+NARK-006,nomorPerkara,118/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,2,automatic TXT extraction,,document-header
+NARK-006,pengadilan,Garut,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,1,automatic TXT extraction,,document-header
+NARK-006,tanggalPutusan,2026-05-26,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,25,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-006,terdakwaKode,Terdakwa-006,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,1,automatic TXT extraction,,anonymized-id
+NARK-006,jenisNarkotika,psikotropika,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-006,beratBarangBuktiGram,6.3648,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,5,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-006,pasalDakwaan,Pasal 62,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-006,pasalTerbukti,Pasal 62,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-006,tuntutanBulan,30,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-006,vonisBulan,27,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-006,dendaRupiah,60000000,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-006,barangBukti,narkotika; telepon genggam,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-006,keadaanMemberatkan,- Perbuatan terdakwa telah meresahkan masyarakat; - Perbuatan terdakwa tidak mendukung upaya pemerintah dalam memberantas penyalahgunaan dan peredaran obat-obat terlarang.,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,23,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-006,keadaanMeringankan,- Terdakwa belum pernah dihukum. - Terdakwa bersikap sopan selama menjalani persidangan dan mengakui serta menyesali perbuatannya. - Terdakwa masih mempunyai tanggungan keluarga.,hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,23,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-006,sourcePages,"2,23-25",hasil-ekstrasi/putusan_118_pid.sus_2026_pn_grt_20261105061849.txt,"2,23-25",automatic TXT extraction,,compiled-page-references
+NARK-007,caseId,NARK-007,hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,1,automatic TXT extraction,,assigned-id
+NARK-007,nomorPerkara,130/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,2,automatic TXT extraction,,document-header
+NARK-007,pengadilan,Garut,hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,1,automatic TXT extraction,,document-header
+NARK-007,tanggalPutusan,2026-07-21,hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-007,terdakwaKode,Terdakwa-007,hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,1,automatic TXT extraction,,anonymized-id
+NARK-007,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-007,beratBarangBuktiGram,20.2608,hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-007,pasalDakwaan,Pasal 114 ayat (2),hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-007,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-007,tuntutanBulan,132,hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-007,vonisBulan,120,hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-007,dendaRupiah,1000000000,hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-007,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-007,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-007,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan.,hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-007,sourcePages,"2,31-33",hasil-ekstrasi/putusan_130_pid.sus_2026_pn_grt_20261105061359.txt,"2,31-33",automatic TXT extraction,,compiled-page-references
+NARK-008,caseId,NARK-008,hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,1,automatic TXT extraction,,assigned-id
+NARK-008,nomorPerkara,135/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,2,automatic TXT extraction,,document-header
+NARK-008,pengadilan,Garut,hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,1,automatic TXT extraction,,document-header
+NARK-008,tanggalPutusan,2026-06-23,hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-008,terdakwaKode,Terdakwa-008,hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,1,automatic TXT extraction,,anonymized-id
+NARK-008,jenisNarkotika,tembakau sintetis,hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-008,beratBarangBuktiGram,61.3429,hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-008,pasalDakwaan,Pasal 114 ayat (2),hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-008,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-008,tuntutanBulan,120,hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-008,vonisBulan,108,hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-008,dendaRupiah,1000000000,hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-008,barangBukti,narkotika; telepon genggam; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-008,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,26,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-008,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan.,hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,26,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-008,sourcePages,"2,26-28",hasil-ekstrasi/putusan_135_pid.sus_2026_pn_grt_20261105061612.txt,"2,26-28",automatic TXT extraction,,compiled-page-references
+NARK-009,caseId,NARK-009,hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,1,automatic TXT extraction,,assigned-id
+NARK-009,nomorPerkara,144/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,2,automatic TXT extraction,,document-header
+NARK-009,pengadilan,Garut,hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,1,automatic TXT extraction,,document-header
+NARK-009,tanggalPutusan,2026-06-25,hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,37,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-009,terdakwaKode,Terdakwa-009,hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,1,automatic TXT extraction,,anonymized-id
+NARK-009,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-009,beratBarangBuktiGram,6.76,hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-009,pasalDakwaan,pasal 114 ayat (2) jo. pasal 132 ayat (1),hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-009,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-009,tuntutanBulan,108,hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-009,vonisBulan,96,hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-009,dendaRupiah,510000000,hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-009,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-009,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-009,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan.,hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-009,sourcePages,"2-3,35-38",hasil-ekstrasi/putusan_144_pid.sus_2026_pn_grt_20261105061524.txt,"2-3,35-38",automatic TXT extraction,,compiled-page-references
+NARK-010,caseId,NARK-010,hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,1,automatic TXT extraction,,assigned-id
+NARK-010,nomorPerkara,145/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,2,automatic TXT extraction,,document-header
+NARK-010,pengadilan,Garut,hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,1,automatic TXT extraction,,document-header
+NARK-010,tanggalPutusan,2026-07-20,hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-010,terdakwaKode,Terdakwa-010,hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,1,automatic TXT extraction,,anonymized-id
+NARK-010,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-010,beratBarangBuktiGram,1.1894,hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,6,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-010,pasalDakwaan,Pasal 114 ayat (1),hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-010,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-010,tuntutanBulan,78,hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-010,vonisBulan,72,hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-010,dendaRupiah,600000000,hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-010,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-010,keadaanMemberatkan,Tidak dicantumkan dalam putusan,hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,28,automatic TXT extraction,,not-found
+NARK-010,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan.,hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-010,sourcePages,"2,28-31",hasil-ekstrasi/putusan_145_pid.sus_2026_pn_grt_20261105061335.txt,"2,28-31",automatic TXT extraction,,compiled-page-references
+NARK-011,caseId,NARK-011,hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,1,automatic TXT extraction,,assigned-id
+NARK-011,nomorPerkara,165/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,2,automatic TXT extraction,,document-header
+NARK-011,pengadilan,Garut,hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,2,automatic TXT extraction,,document-header
+NARK-011,tanggalPutusan,2026-04-14,hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-011,terdakwaKode,Terdakwa-011,hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,1,automatic TXT extraction,,anonymized-id
+NARK-011,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-011,beratBarangBuktiGram,13.7996,hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,7,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-011,pasalDakwaan,Pasal 114 ayat (1),hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-011,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,37,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-011,tuntutanBulan,96,hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-011,vonisBulan,72,hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,37,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-011,dendaRupiah,1000000000,hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,38,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-011,barangBukti,narkotika; telepon genggam; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,37,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-011,keadaanMemberatkan,- Perbuatan terdakwa tidak mendukung program pemerintah dalam upaya memberantas penyalahgunaan Narkotika dan obat-obatan terlarang; - Perbuatan terdakwa mempunyai daya merusak terhadap generasi muda bangsa;,hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-011,keadaanMeringankan,- Terdakwa mengakui dan menyesal atas perbuatannya; - Terdakwa masih muda dan masih ada kesempatan untuk memperbaiki diri;,hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-011,sourcePages,"3,36-38",hasil-ekstrasi/putusan_165_pid.sus_2026_pn_grt_20261105061313.txt,"3,36-38",automatic TXT extraction,,compiled-page-references
+NARK-012,caseId,NARK-012,hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,1,automatic TXT extraction,,assigned-id
+NARK-012,nomorPerkara,17/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,2,automatic TXT extraction,,document-header
+NARK-012,pengadilan,Garut,hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,1,automatic TXT extraction,,document-header
+NARK-012,tanggalPutusan,2026-02-26,hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,38,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-012,terdakwaKode,Terdakwa-012,hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,1,automatic TXT extraction,,anonymized-id
+NARK-012,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-012,beratBarangBuktiGram,7.9252,hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-012,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-012,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-012,tuntutanBulan,96,hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-012,vonisBulan,72,hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-012,dendaRupiah,600000000,hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-012,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kendaraan bermotor; kemasan/plastik,hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-012,keadaanMemberatkan,- Perbuatan Para Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran narkotika,hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-012,keadaanMeringankan,- Para Terdakwa bersikap sopan dalam persidangan; - Para Terdakwa mengakui perbuatannya;,hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-012,sourcePages,"2-4,36-39",hasil-ekstrasi/putusan_17_pid.sus_2026_pn_grt_20261105062503.txt,"2-4,36-39",automatic TXT extraction,,compiled-page-references
+NARK-013,caseId,NARK-013,hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,1,automatic TXT extraction,,assigned-id
+NARK-013,nomorPerkara,181/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,2,automatic TXT extraction,,document-header
+NARK-013,pengadilan,Garut,hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,1,automatic TXT extraction,,document-header
+NARK-013,tanggalPutusan,2026-08-27,hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,43,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-013,terdakwaKode,Terdakwa-013,hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,1,automatic TXT extraction,,anonymized-id
+NARK-013,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-013,beratBarangBuktiGram,179.2716,hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,9,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-013,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-013,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,42,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-013,tuntutanBulan,120,hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-013,vonisBulan,96,hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,42,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-013,dendaRupiah,510000000,hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,42,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-013,barangBukti,narkotika; telepon genggam; timbangan digital; kendaraan bermotor; kemasan/plastik,hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,42,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-013,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,41,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-013,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan. - Terdakwa belum pernah dihukum;,hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,41,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-013,sourcePages,"2-3,41-44",hasil-ekstrasi/putusan_181_pid.sus_2026_pn_grt_20261105060609.txt,"2-3,41-44",automatic TXT extraction,,compiled-page-references
+NARK-014,caseId,NARK-014,hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,1,automatic TXT extraction,,assigned-id
+NARK-014,nomorPerkara,191/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,2,automatic TXT extraction,,document-header
+NARK-014,pengadilan,Garut,hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,1,automatic TXT extraction,,document-header
+NARK-014,tanggalPutusan,2026-08-28,hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-014,terdakwaKode,Terdakwa-014,hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,1,automatic TXT extraction,,anonymized-id
+NARK-014,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-014,beratBarangBuktiGram,13.7126,hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,6,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-014,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-014,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-014,tuntutanBulan,102,hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-014,vonisBulan,96,hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-014,dendaRupiah,510000000,hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-014,barangBukti,narkotika; telepon genggam; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-014,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan tindak pidana narkotika;,hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-014,keadaanMeringankan,"- Terdakwa mengakui, menyesali, dan berjanji tidak akan mengulangi perbuatannya; - Terdakwa belum pernah dipidana; Menimbang bahwa oleh karena Terdakwa dijatuhi pidana dan sebelumnya tidak mengajukan permohonan pembebasan pembebanan biaya perkara, maka harus dibebani untuk membayar biaya perkara; Mengingat Pasal 114 Ayat (2) juncto Pasal 132 Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika juncto Undang-Undang RI Nomor 1 Hal 31 dari 33 hal Putusan Nomor 191/Pid.Sus/2026/PN Grt Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akunta",hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-014,sourcePages,31,hasil-ekstrasi/putusan_191_pid.sus_2026_pn_grt_20261105060604.txt,31,automatic TXT extraction,,compiled-page-references
+NARK-015,caseId,NARK-015,hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,1,automatic TXT extraction,,assigned-id
+NARK-015,nomorPerkara,199/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,2,automatic TXT extraction,,document-header
+NARK-015,pengadilan,Garut,hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,1,automatic TXT extraction,,document-header
+NARK-015,tanggalPutusan,2026-08-26,hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,21,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-015,terdakwaKode,Terdakwa-015,hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,1,automatic TXT extraction,,anonymized-id
+NARK-015,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-015,beratBarangBuktiGram,14.52,hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,4,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-015,pasalDakwaan,Pasal 114 ayat (2),hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-015,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-015,tuntutanBulan,108,hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-015,vonisBulan,84,hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-015,dendaRupiah,1000000000,hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-015,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-015,keadaanMemberatkan,Tidak dicantumkan dalam putusan,hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,19,automatic TXT extraction,,not-found
+NARK-015,keadaanMeringankan,- Terdakwa merasa bersalah dan menyesali perbuatannya; - Terdakwa belum pernah dihukum;,hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-015,sourcePages,"2,19-21",hasil-ekstrasi/putusan_199_pid.sus_2026_pn_grt_20261105060622.txt,"2,19-21",automatic TXT extraction,,compiled-page-references
+NARK-016,caseId,NARK-016,hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,1,automatic TXT extraction,,assigned-id
+NARK-016,nomorPerkara,203/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,2,automatic TXT extraction,,document-header
+NARK-016,pengadilan,Garut,hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,1,automatic TXT extraction,,document-header
+NARK-016,tanggalPutusan,2026-08-26,hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-016,terdakwaKode,Terdakwa-016,hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,1,automatic TXT extraction,,anonymized-id
+NARK-016,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-016,beratBarangBuktiGram,1.2231,hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,8,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-016,pasalDakwaan,Pasal 609 ayat (1),hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-016,pasalTerbukti,Pasal 609 ayat (1),hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-016,tuntutanBulan,34,hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-016,vonisBulan,28,hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-016,dendaRupiah,1000000000,hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-016,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-016,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-016,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan.,hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-016,sourcePages,"2,27-29",hasil-ekstrasi/putusan_203_pid.sus_2026_pn_grt_20261105060613.txt,"2,27-29",automatic TXT extraction,,compiled-page-references
+NARK-017,caseId,NARK-017,hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,1,automatic TXT extraction,,assigned-id
+NARK-017,nomorPerkara,204/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,2,automatic TXT extraction,,document-header
+NARK-017,pengadilan,Garut,hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,1,automatic TXT extraction,,document-header
+NARK-017,tanggalPutusan,2026-08-26,hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-017,terdakwaKode,Terdakwa-017,hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,1,automatic TXT extraction,,anonymized-id
+NARK-017,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-017,beratBarangBuktiGram,3.9393,hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,8,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-017,pasalDakwaan,Pasal 609 ayat (1),hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-017,pasalTerbukti,Pasal 609 ayat (1),hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-017,tuntutanBulan,48,hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-017,vonisBulan,42,hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-017,dendaRupiah,1000000000,hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-017,barangBukti,narkotika; telepon genggam; kendaraan bermotor; kemasan/plastik,hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-017,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-017,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan. ,hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-017,sourcePages,"2,27-29",hasil-ekstrasi/putusan_204_pid.sus_2026_pn_grt_20261105060618.txt,"2,27-29",automatic TXT extraction,,compiled-page-references
+NARK-018,caseId,NARK-018,hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,1,automatic TXT extraction,,assigned-id
+NARK-018,nomorPerkara,207/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,2,automatic TXT extraction,,document-header
+NARK-018,pengadilan,Garut,hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,1,automatic TXT extraction,,document-header
+NARK-018,tanggalPutusan,2026-08-26,hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,49,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-018,terdakwaKode,Terdakwa-018,hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,1,automatic TXT extraction,,anonymized-id
+NARK-018,jenisNarkotika,tembakau sintetis,hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-018,beratBarangBuktiGram,62.8449,hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,10,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-018,pasalDakwaan,Pasal 609 ayat (2),hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-018,pasalTerbukti,Pasal 609 ayat (2),hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,47,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-018,tuntutanBulan,60,hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-018,vonisBulan,48,hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,47,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-018,dendaRupiah,510000000,hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,47,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-018,barangBukti,narkotika; telepon genggam; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,47,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-018,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,46,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-018,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan. - Terdakwa belum pernah dihukum.,hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,47,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-018,sourcePages,"2,46-49",hasil-ekstrasi/putusan_207_pid.sus_2026_pn_grt_20261105061233.txt,"2,46-49",automatic TXT extraction,,compiled-page-references
+NARK-019,caseId,NARK-019,hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,1,automatic TXT extraction,,assigned-id
+NARK-019,nomorPerkara,212/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,2,automatic TXT extraction,,document-header
+NARK-019,pengadilan,Garut,hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,1,automatic TXT extraction,,document-header
+NARK-019,tanggalPutusan,2026-09-16,hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-019,terdakwaKode,Terdakwa-019,hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,1,automatic TXT extraction,,anonymized-id
+NARK-019,jenisNarkotika,tembakau sintetis,hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-019,beratBarangBuktiGram,24.1444,hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-019,pasalDakwaan,Pasal 114 Ayat (2),hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-019,pasalTerbukti,Pasal 114 Ayat (2),hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-019,tuntutanBulan,78,hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-019,vonisBulan,72,hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-019,dendaRupiah,510000000,hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-019,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-019,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan tindak pidana narkotika;,hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-019,keadaanMeringankan,"- Terdakwa mengakui, menyesali, dan berjanji tidak akan mengulangi perbuatannya; - Terdakwa belum pernah dipidana; Menimbang bahwa oleh karena Terdakwa dijatuhi pidana dan sebelumnya tidak mengajukan permohonan pembebasan pembebanan biaya perkara, maka harus dibebani untuk membayar biaya perkara; Mengingat Pasal 114 Ayat (2) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika, Undang-Undang RI Nomor 1 Tahun 2026 tentang Penyesuaian Pidana, Undang-Undang Republik Indonesia Nomor 20 Tahun 2025 tentang Kitab Undang-Undang Hukum Acara Pidana, serta peraturan perundang-undangan lain yang bersangkutan;",hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-019,sourcePages,29,hasil-ekstrasi/putusan_212_pid.sus_2026_pn_grt_20261105060444.txt,29,automatic TXT extraction,,compiled-page-references
+NARK-020,caseId,NARK-020,hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,1,automatic TXT extraction,,assigned-id
+NARK-020,nomorPerkara,214/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,2,automatic TXT extraction,,document-header
+NARK-020,pengadilan,Garut,hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,1,automatic TXT extraction,,document-header
+NARK-020,tanggalPutusan,2026-09-22,hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-020,terdakwaKode,Terdakwa-020,hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,1,automatic TXT extraction,,anonymized-id
+NARK-020,jenisNarkotika,ganja,hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-020,beratBarangBuktiGram,0,hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,,automatic TXT extraction,,not-found-or-not-explicit
+NARK-020,pasalDakwaan,Pasal 111 ayat (1),hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-020,pasalTerbukti,Pasal 111 ayat (1),hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,19,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-020,tuntutanBulan,58,hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-020,vonisBulan,54,hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,19,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-020,dendaRupiah,510000000,hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-020,barangBukti,narkotika,hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,19,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-020,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan tindak pidana narkotika;,hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,19,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-020,keadaanMeringankan,"- Terdakwa mengakui, menyesali, dan berjanji tidak akan mengulangi perbuatannya; - Terdakwa belum pernah dipidana; Menimbang bahwa oleh karena Terdakwa dijatuhi pidana dan sebelumnya tidak mengajukan permohonan pembebasan pembebanan biaya perkara, maka harus dibebani untuk membayar biaya perkara; Mengingat Pasal 111 Ayat (1) Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika jo Undang-Undang Nomor 1 Tahun 2023 tentang KUHP jo Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana, Undang- Undang Republik Indonesia Nomor 20 Tahun 2025 tentang Kitab Undang- Undang Hukum Acara Pidana, serta peraturan perundang-undangan lain yang bersangkutan;",hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,19,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-020,sourcePages,19,hasil-ekstrasi/putusan_214_pid.sus_2026_pn_grt_20261105060433.txt,19,automatic TXT extraction,,compiled-page-references
+NARK-021,caseId,NARK-021,hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,1,automatic TXT extraction,,assigned-id
+NARK-021,nomorPerkara,218/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,2,automatic TXT extraction,,document-header
+NARK-021,pengadilan,Garut,hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,1,automatic TXT extraction,,document-header
+NARK-021,tanggalPutusan,2026-09-16,hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-021,terdakwaKode,Terdakwa-021,hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,1,automatic TXT extraction,,anonymized-id
+NARK-021,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-021,beratBarangBuktiGram,7.4512,hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,9,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-021,pasalDakwaan,Pasal 114 ayat (1),hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-021,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-021,tuntutanBulan,78,hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-021,vonisBulan,0,hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,30,automatic TXT extraction,,not-found-or-not-explicit
+NARK-021,dendaRupiah,0,hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,,automatic TXT extraction,,not-found-or-not-explicit
+NARK-021,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-021,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan tindak pidana narkotika;,hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-021,keadaanMeringankan,"- Terdakwa mengakui, menyesali, dan berjanji tidak akan mengulangi perbuatannya; - Terdakwa belum pernah dipidana; Hal 29 dari 32 hal Putusan Nomor 218/Pid.Sus/2026/PN Grt Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang kami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu. Dalam hal Anda menemukan inakurasi informasi yang termuat pada situs ini atau in",hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-021,sourcePages,29,hasil-ekstrasi/putusan_218_pid.sus_2026_pn_grt_20261105060553.txt,29,automatic TXT extraction,,compiled-page-references
+NARK-022,caseId,NARK-022,hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,1,automatic TXT extraction,,assigned-id
+NARK-022,nomorPerkara,219/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,2,automatic TXT extraction,,document-header
+NARK-022,pengadilan,Garut,hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,1,automatic TXT extraction,,document-header
+NARK-022,tanggalPutusan,2026-09-16,hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-022,terdakwaKode,Terdakwa-022,hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,1,automatic TXT extraction,,anonymized-id
+NARK-022,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-022,beratBarangBuktiGram,13.5463,hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,7,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-022,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-022,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,34,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-022,tuntutanBulan,102,hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-022,vonisBulan,90,hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,34,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-022,dendaRupiah,510000000,hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,34,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-022,barangBukti,narkotika; telepon genggam; timbangan digital; kendaraan bermotor; kemasan/plastik,hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,34,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-022,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan tindak pidana narkotika;,hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-022,keadaanMeringankan,"- Terdakwa mengakui, menyesali, dan berjanji tidak akan mengulangi perbuatannya; - Terdakwa belum pernah dipidana; - Terdakwa merupakan tulang punggung keluarga. Hal 33 dari 36 hal Putusan Nomor 219/Pid.Sus/2026/PN Grt Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang kami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu. Dalam hal Anda menemukan inakuras",hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-022,sourcePages,33,hasil-ekstrasi/putusan_219_pid.sus_2026_pn_grt_20261105060439.txt,33,automatic TXT extraction,,compiled-page-references
+NARK-023,caseId,NARK-023,hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,1,automatic TXT extraction,,assigned-id
+NARK-023,nomorPerkara,316/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,2,automatic TXT extraction,,document-header
+NARK-023,pengadilan,Garut,hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,1,automatic TXT extraction,,document-header
+NARK-023,tanggalPutusan,2025-12-23,hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,21,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-023,terdakwaKode,Terdakwa-023,hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,1,automatic TXT extraction,,anonymized-id
+NARK-023,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-023,beratBarangBuktiGram,26.98,hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-023,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-023,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-023,tuntutanBulan,120,hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-023,vonisBulan,120,hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-023,dendaRupiah,1500000000,hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-023,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-023,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung upaya Pemerintah dalam memberantas penyalahgunaan dan peredaran gelap Narkotika; -,hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-023,keadaanMeringankan,- Terdakwa menyesali perbuatannya; - Terdakwa mengaku terus terang. - Terdakwa bersikap kooperatif selama proses persidangan.,hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-023,sourcePages,"2,20-22",hasil-ekstrasi/putusan_316_pid.sus_2025_pn_grt_20261107125202.txt,"2,20-22",automatic TXT extraction,,compiled-page-references
+NARK-024,caseId,NARK-024,hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,1,automatic TXT extraction,,assigned-id
+NARK-024,nomorPerkara,317/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,2,automatic TXT extraction,,document-header
+NARK-024,pengadilan,Garut,hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,1,automatic TXT extraction,,document-header
+NARK-024,tanggalPutusan,2026-01-12,hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-024,terdakwaKode,Terdakwa-024,hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,1,automatic TXT extraction,,anonymized-id
+NARK-024,jenisNarkotika,tembakau sintetis,hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-024,beratBarangBuktiGram,0,hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,,automatic TXT extraction,,not-found-or-not-explicit
+NARK-024,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-024,pasalTerbukti,Pasal 114 ayat (1) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-024,tuntutanBulan,168,hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-024,vonisBulan,156,hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-024,dendaRupiah,1000000000,hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-024,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-024,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-024,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan.,hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-024,sourcePages,"2,27-28",hasil-ekstrasi/putusan_317_pid.sus_2025_pn_grt_20261107124928.txt,"2,27-28",automatic TXT extraction,,compiled-page-references
+NARK-025,caseId,NARK-025,hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,1,automatic TXT extraction,,assigned-id
+NARK-025,nomorPerkara,367/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,2,automatic TXT extraction,,document-header
+NARK-025,pengadilan,Garut,hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,1,automatic TXT extraction,,document-header
+NARK-025,tanggalPutusan,2025-12-22,hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,39,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-025,terdakwaKode,Terdakwa-025,hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,1,automatic TXT extraction,,anonymized-id
+NARK-025,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-025,beratBarangBuktiGram,14.3966,hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-025,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-025,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-025,tuntutanBulan,120,hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-025,vonisBulan,120,hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-025,dendaRupiah,1500000000,hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,37,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-025,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-025,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung upaya Pemerintah dalam memberantas penyalahgunaan dan peredaran gelap Narkotika. - Terdakwa pernah dihukum dalam perkara mengedarkan Narkotika;,hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-025,keadaanMeringankan,- Terdakwa menyesali perbuatannya dan berterus terang di persidangan;,hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-025,sourcePages,"2-3,36-39",hasil-ekstrasi/putusan_367_pid.sus_2025_pn_grt_20261107125252.txt,"2-3,36-39",automatic TXT extraction,,compiled-page-references
+NARK-026,caseId,NARK-026,hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,1,automatic TXT extraction,,assigned-id
+NARK-026,nomorPerkara,368/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,2,automatic TXT extraction,,document-header
+NARK-026,pengadilan,Garut,hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,1,automatic TXT extraction,,document-header
+NARK-026,tanggalPutusan,2025-12-22,hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,34,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-026,terdakwaKode,Terdakwa-026,hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,1,automatic TXT extraction,,anonymized-id
+NARK-026,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-026,beratBarangBuktiGram,14.3966,hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-026,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-026,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-026,tuntutanBulan,120,hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-026,vonisBulan,120,hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-026,dendaRupiah,1500000000,hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-026,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-026,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung upaya Pemerintah dalam memberantas penyalahgunaan dan peredaran gelap Narkotika. - Terdakwa pernah dihukum dalam perkara mengedarkan Narkotika;,hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-026,keadaanMeringankan,- Terdakwa menyesali perbuatannya dan berterus terang di persidangan;,hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-026,sourcePages,"2-3,32-35",hasil-ekstrasi/putusan_368_pid.sus_2025_pn_grt_20261107125212.txt,"2-3,32-35",automatic TXT extraction,,compiled-page-references
+NARK-027,caseId,NARK-027,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,1,automatic TXT extraction,,assigned-id
+NARK-027,nomorPerkara,376/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,2,automatic TXT extraction,,document-header
+NARK-027,pengadilan,Garut,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,1,automatic TXT extraction,,document-header
+NARK-027,tanggalPutusan,2026-01-28,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-027,terdakwaKode,Terdakwa-027,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,1,automatic TXT extraction,,anonymized-id
+NARK-027,jenisNarkotika,tembakau sintetis,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-027,beratBarangBuktiGram,1.137,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-027,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 62,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-027,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-027,tuntutanBulan,96,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-027,vonisBulan,96,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-027,dendaRupiah,1500000000,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-027,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-027,keadaanMemberatkan,- Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran narkotika; - Terdakwa sudah pernah dihukum sebelumnya.,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-027,keadaanMeringankan,- Terdakwa bersikap sopan dalam persidangan; - Terdakwa mengakui perbuatannya;,hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-027,sourcePages,"2,32-34",hasil-ekstrasi/putusan_376_pid.sus_2025_pn_grt_20261107124727.txt,"2,32-34",automatic TXT extraction,,compiled-page-references
+NARK-028,caseId,NARK-028,hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,1,automatic TXT extraction,,assigned-id
+NARK-028,nomorPerkara,381/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,2,automatic TXT extraction,,document-header
+NARK-028,pengadilan,Garut,hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,1,automatic TXT extraction,,document-header
+NARK-028,tanggalPutusan,2026-01-05,hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-028,terdakwaKode,Terdakwa-028,hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,1,automatic TXT extraction,,anonymized-id
+NARK-028,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-028,beratBarangBuktiGram,0.9311,hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,6,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-028,pasalDakwaan,Pasal 114 Ayat (1),hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-028,pasalTerbukti,Pasal 114 Ayat (1),hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-028,tuntutanBulan,96,hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-028,vonisBulan,84,hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-028,dendaRupiah,1000000000,hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-028,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-028,keadaanMemberatkan,- Perbuatan Terdakwa bertentangan dengan program pemberantasan peredaran gelap narkotika. - Perbuatan Terdakwa menimbulkan keresahan di masyarakat.,hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-028,keadaanMeringankan,- Terdakwa belum pernah dihukum. - Terdakwa mengakui perbuatannya sehingga memperlancar jalannya persidangan.,hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-028,sourcePages,"2,31-33",hasil-ekstrasi/putusan_381_pid.sus_2025_pn_grt_20261107125143.txt,"2,31-33",automatic TXT extraction,,compiled-page-references
+NARK-029,caseId,NARK-029,hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,1,automatic TXT extraction,,assigned-id
+NARK-029,nomorPerkara,382/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,2,automatic TXT extraction,,document-header
+NARK-029,pengadilan,Garut,hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,1,automatic TXT extraction,,document-header
+NARK-029,tanggalPutusan,2025-12-23,hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-029,terdakwaKode,Terdakwa-029,hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,1,automatic TXT extraction,,anonymized-id
+NARK-029,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-029,beratBarangBuktiGram,5.8412,hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,5,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-029,pasalDakwaan,Pasal 114 Ayat (2),hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-029,pasalTerbukti,Pasal 114 Ayat (2),hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-029,tuntutanBulan,96,hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-029,vonisBulan,84,hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-029,dendaRupiah,1500000000,hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-029,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-029,keadaanMemberatkan,"- Perbuatan terdakwa bertentangan dengan Program Pemerintah untuk mencegah dan memberantas penyalahgunaan dan peredaran gelap narkotika yang merugikan dan membahayakan kehidupan masyarakat, bangsa dan Negara",hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-029,keadaanMeringankan,- Terdakwa berterus terang saat di persidangan - Terdakwa belum pernah di hukum - Terdakwa bersikap sopan di persidangan,hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-029,sourcePages,"2,28-30",hasil-ekstrasi/putusan_382_pid.sus_2025_pn_grt_20261107125329.txt,"2,28-30",automatic TXT extraction,,compiled-page-references
+NARK-030,caseId,NARK-030,hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,1,automatic TXT extraction,,assigned-id
+NARK-030,nomorPerkara,3/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,2,automatic TXT extraction,,document-header
+NARK-030,pengadilan,Garut,hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,1,automatic TXT extraction,,document-header
+NARK-030,tanggalPutusan,2026-03-03,hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-030,terdakwaKode,Terdakwa-030,hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,1,automatic TXT extraction,,anonymized-id
+NARK-030,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-030,beratBarangBuktiGram,2.8388,hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-030,pasalDakwaan,Pasal 114 Ayat (1),hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-030,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,34,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-030,tuntutanBulan,90,hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-030,vonisBulan,90,hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,34,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-030,dendaRupiah,510000000,hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-030,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,34,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-030,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam upaya pemberatasan peradaran dan penyalahgunaan narkotika ; - Perbuatan Terdakwa berpotensi mengancam nyawa dan merusak generasi muda bangsa Indonesia;,hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,34,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-030,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya;,hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,34,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-030,sourcePages,"2-3,34-36",hasil-ekstrasi/putusan_3_pid.sus_2026_pn_grt_20261105062551.txt,"2-3,34-36",automatic TXT extraction,,compiled-page-references
+NARK-031,caseId,NARK-031,hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,1,automatic TXT extraction,,assigned-id
+NARK-031,nomorPerkara,409/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,2,automatic TXT extraction,,document-header
+NARK-031,pengadilan,Garut,hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,1,automatic TXT extraction,,document-header
+NARK-031,tanggalPutusan,2026-01-22,hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,42,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-031,terdakwaKode,Terdakwa-031,hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,1,automatic TXT extraction,,anonymized-id
+NARK-031,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,1,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-031,beratBarangBuktiGram,14.2199,hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-031,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,1,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-031,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,41,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-031,tuntutanBulan,120,hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-031,vonisBulan,96,hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,41,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-031,dendaRupiah,1000000000,hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,41,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-031,barangBukti,narkotika; telepon genggam; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,41,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-031,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,41,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-031,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan.,hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,41,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-031,sourcePages,"1,41-42",hasil-ekstrasi/putusan_409_pid.sus_2025_pn_grt_20261107124916.txt,"1,41-42",automatic TXT extraction,,compiled-page-references
+NARK-032,caseId,NARK-032,hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,1,automatic TXT extraction,,assigned-id
+NARK-032,nomorPerkara,413/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,2,automatic TXT extraction,,document-header
+NARK-032,pengadilan,Garut,hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,1,automatic TXT extraction,,document-header
+NARK-032,tanggalPutusan,2026-03-04,hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,60,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-032,terdakwaKode,Terdakwa-032,hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,1,automatic TXT extraction,,anonymized-id
+NARK-032,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-032,beratBarangBuktiGram,41.2943,hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-032,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-032,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,59,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-032,tuntutanBulan,120,hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-032,vonisBulan,108,hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,59,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-032,dendaRupiah,1000000000,hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,59,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-032,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,59,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-032,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,58,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-032,keadaanMeringankan,Tidak dicantumkan dalam putusan,hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,58,automatic TXT extraction,,not-found
+NARK-032,sourcePages,"2,58-60",hasil-ekstrasi/putusan_413_pid.sus_2025_pn_grt_20261107124420.txt,"2,58-60",automatic TXT extraction,,compiled-page-references
+NARK-033,caseId,NARK-033,hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,1,automatic TXT extraction,,assigned-id
+NARK-033,nomorPerkara,414/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,2,automatic TXT extraction,,document-header
+NARK-033,pengadilan,Garut,hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,1,automatic TXT extraction,,document-header
+NARK-033,tanggalPutusan,2026-03-03,hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,59,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-033,terdakwaKode,Terdakwa-033,hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,1,automatic TXT extraction,,anonymized-id
+NARK-033,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,1,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-033,beratBarangBuktiGram,41.2943,hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-033,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,1,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-033,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,58,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-033,tuntutanBulan,144,hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-033,vonisBulan,144,hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,58,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-033,dendaRupiah,2000000000,hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,58,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-033,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,58,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-033,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,57,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-033,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan.,hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,57,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-033,sourcePages,"1-2,57-59",hasil-ekstrasi/putusan_414_pid.sus_2025_pn_grt_20261107124410.txt,"1-2,57-59",automatic TXT extraction,,compiled-page-references
+NARK-034,caseId,NARK-034,hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,1,automatic TXT extraction,,assigned-id
+NARK-034,nomorPerkara,422/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,2,automatic TXT extraction,,document-header
+NARK-034,pengadilan,Garut,hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,1,automatic TXT extraction,,document-header
+NARK-034,tanggalPutusan,2026-01-08,hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-034,terdakwaKode,Terdakwa-034,hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,1,automatic TXT extraction,,anonymized-id
+NARK-034,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-034,beratBarangBuktiGram,2.8899,hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-034,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-034,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-034,tuntutanBulan,72,hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-034,vonisBulan,60,hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-034,dendaRupiah,1000000000,hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-034,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-034,keadaanMemberatkan,- Perbuatan Para Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran narkotika,hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-034,keadaanMeringankan,- Para Terdakwa bersikap sopan dalam persidangan; ,hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-034,sourcePages,"2-3,31-33",hasil-ekstrasi/putusan_422_pid.sus_2025_pn_grt_20261107125004.txt,"2-3,31-33",automatic TXT extraction,,compiled-page-references
+NARK-035,caseId,NARK-035,hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,1,automatic TXT extraction,,assigned-id
+NARK-035,nomorPerkara,424/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,2,automatic TXT extraction,,document-header
+NARK-035,pengadilan,Garut,hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,1,automatic TXT extraction,,document-header
+NARK-035,tanggalPutusan,2026-03-03,hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,37,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-035,terdakwaKode,Terdakwa-035,hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,1,automatic TXT extraction,,anonymized-id
+NARK-035,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-035,beratBarangBuktiGram,6.37,hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-035,pasalDakwaan,Pasal 114 ayat (2),hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-035,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-035,tuntutanBulan,96,hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-035,vonisBulan,96,hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-035,dendaRupiah,2000000000,hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,36,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-035,barangBukti,narkotika; telepon genggam; alat hisap; kemasan/plastik,hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-035,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam upaya pemberatasan peradaran dan penyalahgunaan narkotika ; - Perbuatan Terdakwa berpotensi mengancam nyawa dan merusak generasi muda bangsa Indonesia;,hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-035,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya; - Terdakwa masih muda diharapkan mampu memperbaiki diri dikemudian hari; - Terdakwa merupakan tulang punggung keluarga; - Terdakwa bukan pemilik dari narkotika jenis shabu terebut; - Terdakwa belum pernah dihukum;,hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-035,sourcePages,"2-3,35-37",hasil-ekstrasi/putusan_424_pid.sus_2025_pn_grt_20261107124451.txt,"2-3,35-37",automatic TXT extraction,,compiled-page-references
+NARK-036,caseId,NARK-036,hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,1,automatic TXT extraction,,assigned-id
+NARK-036,nomorPerkara,430/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,2,automatic TXT extraction,,document-header
+NARK-036,pengadilan,Garut,hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,1,automatic TXT extraction,,document-header
+NARK-036,tanggalPutusan,2026-02-19,hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,77,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-036,terdakwaKode,Terdakwa-036,hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,1,automatic TXT extraction,,anonymized-id
+NARK-036,jenisNarkotika,tembakau sintetis,hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-036,beratBarangBuktiGram,31.2738,hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-036,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-036,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,75,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-036,tuntutanBulan,78,hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-036,vonisBulan,72,hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,75,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-036,dendaRupiah,800000000,hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,75,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-036,barangBukti,narkotika; telepon genggam; timbangan digital; kendaraan bermotor; kemasan/plastik,hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,75,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-036,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam upaya pemberatasan peradaran dan penyalahgunaan narkotika ; - Perbuatan Terdakwa berpotensi mengancam nyawa dan merusak generasi muda bangsa Indonesia;,hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,74,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-036,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya; - Terdakwa masih muda diharapkan mampu memperbaiki diri dikemudian hari; - Terdakwa merupakan tulang punggung keluarga; - Terdakwa belum pernah dihukum;,hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,74,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-036,sourcePages,"2-3,74-78",hasil-ekstrasi/putusan_430_pid.sus_2025_pn_grt_20261107124613.txt,"2-3,74-78",automatic TXT extraction,,compiled-page-references
+NARK-037,caseId,NARK-037,hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,1,automatic TXT extraction,,assigned-id
+NARK-037,nomorPerkara,431/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,2,automatic TXT extraction,,document-header
+NARK-037,pengadilan,Garut,hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,1,automatic TXT extraction,,document-header
+NARK-037,tanggalPutusan,2026-02-19,hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,65,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-037,terdakwaKode,Terdakwa-037,hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,1,automatic TXT extraction,,anonymized-id
+NARK-037,jenisNarkotika,tembakau sintetis,hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-037,beratBarangBuktiGram,16.7781,hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,9,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-037,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-037,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,62,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-037,tuntutanBulan,78,hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-037,vonisBulan,72,hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,62,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-037,dendaRupiah,800000000,hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,62,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-037,barangBukti,narkotika; telepon genggam; timbangan digital; kendaraan bermotor; kemasan/plastik,hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,62,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-037,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam upaya pemberatasan peradaran dan penyalahgunaan narkotika ; - Perbuatan Terdakwa berpotensi mengancam nyawa dan merusak generasi muda bangsa Indonesia;,hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,62,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-037,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya; - Terdakwa masih muda diharapkan mampu memperbaiki diri dikemudian hari; - Terdakwa merupakan tulang punggung keluarga; - Terdakwa belum pernah dihukum;,hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,62,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-037,sourcePages,"2,62-65",hasil-ekstrasi/putusan_431_pid.sus_2025_pn_grt_20261107124622.txt,"2,62-65",automatic TXT extraction,,compiled-page-references
+NARK-038,caseId,NARK-038,hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,1,automatic TXT extraction,,assigned-id
+NARK-038,nomorPerkara,432/Pid.Sus/2025/PN Grt,hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,2,automatic TXT extraction,,document-header
+NARK-038,pengadilan,Garut,hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,1,automatic TXT extraction,,document-header
+NARK-038,tanggalPutusan,2026-02-19,hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,64,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-038,terdakwaKode,Terdakwa-038,hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,1,automatic TXT extraction,,anonymized-id
+NARK-038,jenisNarkotika,tembakau sintetis,hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-038,beratBarangBuktiGram,3.9305,hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,8,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-038,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-038,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,61,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-038,tuntutanBulan,72,hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-038,vonisBulan,72,hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,61,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-038,dendaRupiah,800000000,hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,61,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-038,barangBukti,narkotika; telepon genggam; timbangan digital; kendaraan bermotor; kemasan/plastik,hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,61,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-038,keadaanMemberatkan,Tidak dicantumkan dalam putusan,hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,60,automatic TXT extraction,,not-found
+NARK-038,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya; - Terdakwa masih muda diharapkan mampu memperbaiki diri dikemudian hari; - Terdakwa merupakan tulang punggung keluarga; - Terdakwa belum pernah dihukum;,hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,61,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-038,sourcePages,"2,60-64",hasil-ekstrasi/putusan_432_pid.sus_2025_pn_grt_20261107124651.txt,"2,60-64",automatic TXT extraction,,compiled-page-references
+NARK-039,caseId,NARK-039,hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,1,automatic TXT extraction,,assigned-id
+NARK-039,nomorPerkara,4/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,2,automatic TXT extraction,,document-header
+NARK-039,pengadilan,Garut,hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,1,automatic TXT extraction,,document-header
+NARK-039,tanggalPutusan,2026-02-26,hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,21,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-039,terdakwaKode,Terdakwa-039,hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,1,automatic TXT extraction,,anonymized-id
+NARK-039,jenisNarkotika,tembakau sintetis,hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-039,beratBarangBuktiGram,9.5011,hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-039,pasalDakwaan,Pasal 114 ayat (2),hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-039,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-039,tuntutanBulan,108,hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-039,vonisBulan,96,hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-039,dendaRupiah,1500000000,hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-039,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,20,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-039,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran narkotika,hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,19,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-039,keadaanMeringankan,- Terdakwa bersikap sopan dalam persidangan; - Terdakwa mengakui perbuatannya;,hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,19,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-039,sourcePages,"2,19-21",hasil-ekstrasi/putusan_4_pid.sus_2026_pn_grt_20261105062527.txt,"2,19-21",automatic TXT extraction,,compiled-page-references
+NARK-040,caseId,NARK-040,hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,1,automatic TXT extraction,,assigned-id
+NARK-040,nomorPerkara,51/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,2,automatic TXT extraction,,document-header
+NARK-040,pengadilan,Garut,hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,1,automatic TXT extraction,,document-header
+NARK-040,tanggalPutusan,2026-06-03,hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-040,terdakwaKode,Terdakwa-040,hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,1,automatic TXT extraction,,anonymized-id
+NARK-040,jenisNarkotika,tembakau sintetis,hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-040,beratBarangBuktiGram,15.5031,hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-040,pasalDakwaan,Pasal 114 Ayat (2),hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-040,pasalTerbukti,Pasal 114 Ayat (2),hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-040,tuntutanBulan,96,hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-040,vonisBulan,84,hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-040,dendaRupiah,1500000000,hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,31,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-040,barangBukti,narkotika; telepon genggam; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-040,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran narkotika,hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-040,keadaanMeringankan,- Terdakwa bersikap sopan dalam persidangan; - Terdakwa mengakui perbuatannya; - Terdakwa belum pernah dihukum;,hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-040,sourcePages,"2,30-32",hasil-ekstrasi/putusan_51_pid.sus_2026_pn_grt_20261107124047.txt,"2,30-32",automatic TXT extraction,,compiled-page-references
+NARK-041,caseId,NARK-041,hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,1,automatic TXT extraction,,assigned-id
+NARK-041,nomorPerkara,73/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,2,automatic TXT extraction,,document-header
+NARK-041,pengadilan,Garut,hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,1,automatic TXT extraction,,document-header
+NARK-041,tanggalPutusan,2026-05-20,hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-041,terdakwaKode,Terdakwa-041,hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,1,automatic TXT extraction,,anonymized-id
+NARK-041,jenisNarkotika,tembakau sintetis,hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-041,beratBarangBuktiGram,1.3676,hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-041,pasalDakwaan,Pasal 114 ayat (1),hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-041,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-041,tuntutanBulan,108,hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-041,vonisBulan,84,hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-041,dendaRupiah,1000000000,hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-041,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-041,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-041,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan.,hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-041,sourcePages,"2,27-29",hasil-ekstrasi/putusan_73_pid.sus_2026_pn_grt_20261105061914.txt,"2,27-29",automatic TXT extraction,,compiled-page-references
+NARK-042,caseId,NARK-042,hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,1,automatic TXT extraction,,assigned-id
+NARK-042,nomorPerkara,76/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,2,automatic TXT extraction,,document-header
+NARK-042,pengadilan,Garut,hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,1,automatic TXT extraction,,document-header
+NARK-042,tanggalPutusan,2026-05-07,hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,25,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-042,terdakwaKode,Terdakwa-042,hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,1,automatic TXT extraction,,anonymized-id
+NARK-042,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-042,beratBarangBuktiGram,0.1564,hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-042,pasalDakwaan,Pasal 114 Ayat (1) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-042,pasalTerbukti,Pasal 114 Ayat (1),hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-042,tuntutanBulan,78,hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-042,vonisBulan,60,hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-042,dendaRupiah,510000000,hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-042,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-042,keadaanMemberatkan,- Perbuatan Terdakwa meresahkan masyarakat;,hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-042,keadaanMeringankan,- Terdakwa bersikap sopan dalam persidangan; - Terdakwa mengakui Perbuatannya; - Terdakwa belum pernah dihukum;,hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-042,sourcePages,"2-3,24-25",hasil-ekstrasi/putusan_76_pid.sus_2026_pn_grt_20261105062138.txt,"2-3,24-25",automatic TXT extraction,,compiled-page-references
+NARK-043,caseId,NARK-043,hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,1,automatic TXT extraction,,assigned-id
+NARK-043,nomorPerkara,7/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,2,automatic TXT extraction,,document-header
+NARK-043,pengadilan,Garut,hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,1,automatic TXT extraction,,document-header
+NARK-043,tanggalPutusan,2026-03-10,hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,42,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-043,terdakwaKode,Terdakwa-043,hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,1,automatic TXT extraction,,anonymized-id
+NARK-043,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-043,beratBarangBuktiGram,3.5065,hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,3,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-043,pasalDakwaan,Pasal 114 Ayat (2) jo. Pasal 132 Ayat (1),hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-043,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,40,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-043,tuntutanBulan,102,hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-043,vonisBulan,90,hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,40,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-043,dendaRupiah,1500000000,hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,40,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-043,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kendaraan bermotor; kemasan/plastik,hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,40,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-043,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam upaya pemberatasan peradaran dan penyalahgunaan narkotika ; - Perbuatan Terdakwa berpotensi mengancam nyawa dan merusak generasi muda bangsa Indonesia; - Terdakwa Pernah dihukum;,hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,39,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-043,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya; - Terdakwa masih muda diharapkan mampu memperbaiki diri dikemudian hari; - Terdakwa merupakan tulang punggung keluarga; ,hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,39,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-043,sourcePages,"2-3,39-42",hasil-ekstrasi/putusan_7_pid.sus_2026_pn_grt_20261105062350.txt,"2-3,39-42",automatic TXT extraction,,compiled-page-references
+NARK-044,caseId,NARK-044,hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,1,automatic TXT extraction,,assigned-id
+NARK-044,nomorPerkara,84/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,2,automatic TXT extraction,,document-header
+NARK-044,pengadilan,Garut,hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,1,automatic TXT extraction,,document-header
+NARK-044,tanggalPutusan,2026-05-18,hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,41,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-044,terdakwaKode,Terdakwa-044,hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,1,automatic TXT extraction,,anonymized-id
+NARK-044,jenisNarkotika,tembakau sintetis,hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-044,beratBarangBuktiGram,5.7077,hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-044,pasalDakwaan,Pasal 114 Ayat (2),hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-044,pasalTerbukti,Pasal 114 Ayat (2),hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,40,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-044,tuntutanBulan,96,hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-044,vonisBulan,84,hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,40,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-044,dendaRupiah,510000000,hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,40,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-044,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,40,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-044,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran narkotika ,hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,39,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-044,keadaanMeringankan,- Terdakwa bersikap sopan dalam persidangan; - Terdakwa mengakui perbuatannya;,hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,40,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-044,sourcePages,"2,39-41",hasil-ekstrasi/putusan_84_pid.sus_2026_pn_grt_20261105062001.txt,"2,39-41",automatic TXT extraction,,compiled-page-references
+NARK-045,caseId,NARK-045,hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,1,automatic TXT extraction,,assigned-id
+NARK-045,nomorPerkara,88/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,2,automatic TXT extraction,,document-header
+NARK-045,pengadilan,Garut,hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,1,automatic TXT extraction,,document-header
+NARK-045,tanggalPutusan,2026-05-18,hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,26,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-045,terdakwaKode,Terdakwa-045,hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,1,automatic TXT extraction,,anonymized-id
+NARK-045,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-045,beratBarangBuktiGram,2.3689,hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,6,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-045,pasalDakwaan,Pasal 114 ayat (1),hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-045,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,25,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-045,tuntutanBulan,90,hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-045,vonisBulan,90,hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,25,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-045,dendaRupiah,501000000,hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,25,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-045,barangBukti,narkotika; telepon genggam; kemasan/plastik,hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,25,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-045,keadaanMemberatkan,- Perbuatan terdakwa telah merusak generasi anak bangsa; - Perbuatan terdakwa tidak mendukung program Pemerintah dalam Pemberantasan peredaran gelap Narkotika; - Terdakwa sudah pernah dihukum dalam perkara yang sama;,hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,24,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-045,keadaanMeringankan,Tidak dicantumkan dalam putusan,hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,24,automatic TXT extraction,,not-found
+NARK-045,sourcePages,"2,24-26",hasil-ekstrasi/putusan_88_pid.sus_2026_pn_grt_20261105062025.txt,"2,24-26",automatic TXT extraction,,compiled-page-references
+NARK-046,caseId,NARK-046,hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,1,automatic TXT extraction,,assigned-id
+NARK-046,nomorPerkara,8/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,2,automatic TXT extraction,,document-header
+NARK-046,pengadilan,Garut,hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,1,automatic TXT extraction,,document-header
+NARK-046,tanggalPutusan,2026-03-10,hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-046,terdakwaKode,Terdakwa-046,hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,1,automatic TXT extraction,,anonymized-id
+NARK-046,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,1,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-046,beratBarangBuktiGram,8.2145,hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,5,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-046,pasalDakwaan,Pasal 114 Ayat (2) jo. Pasal 132 Ayat (1),hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,1,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-046,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-046,tuntutanBulan,120,hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-046,vonisBulan,108,hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-046,dendaRupiah,1500000000,hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-046,barangBukti,narkotika; telepon genggam,hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-046,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam upaya pemberatasan peradaran dan penyalahgunaan narkotika ; - Perbuatan Terdakwa berpotensi mengancam nyawa dan merusak generasi muda bangsa Indonesia; - Terdakwa Pernah dihukum;,hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-046,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya; - Terdakwa masih muda diharapkan mampu memperbaiki diri dikemudian hari; - Terdakwa merupakan tulang punggung keluarga;,hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,32,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-046,sourcePages,"1,32-34",hasil-ekstrasi/putusan_8_pid.sus_2026_pn_grt_20261107124242.txt,"1,32-34",automatic TXT extraction,,compiled-page-references
+NARK-047,caseId,NARK-047,hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,1,automatic TXT extraction,,assigned-id
+NARK-047,nomorPerkara,92/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,2,automatic TXT extraction,,document-header
+NARK-047,pengadilan,Garut,hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,1,automatic TXT extraction,,document-header
+NARK-047,tanggalPutusan,2026-06-09,hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,59,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-047,terdakwaKode,Terdakwa-047,hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,1,automatic TXT extraction,,anonymized-id
+NARK-047,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-047,beratBarangBuktiGram,43.7918,hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,10,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-047,pasalDakwaan,Pasal 114 ayat (2),hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-047,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,57,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-047,tuntutanBulan,108,hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-047,vonisBulan,96,hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,57,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-047,dendaRupiah,1500000000,hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,57,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-047,barangBukti,narkotika; telepon genggam; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,57,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-047,keadaanMemberatkan,Tidak dicantumkan dalam putusan,hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,56,automatic TXT extraction,,not-found
+NARK-047,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya; - Terdakwa masih muda diharapkan mampu memperbaiki diri dikemudian hari; - Terdakwa merupakan tulang punggung keluarga;,hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,57,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-047,sourcePages,"2-3,56-59",hasil-ekstrasi/putusan_92_pid.sus_2026_pn_grt_20261105061724.txt,"2-3,56-59",automatic TXT extraction,,compiled-page-references
+NARK-048,caseId,NARK-048,hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,1,automatic TXT extraction,,assigned-id
+NARK-048,nomorPerkara,93/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,2,automatic TXT extraction,,document-header
+NARK-048,pengadilan,Garut,hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,1,automatic TXT extraction,,document-header
+NARK-048,tanggalPutusan,2026-06-17,hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,35,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-048,terdakwaKode,Terdakwa-048,hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,1,automatic TXT extraction,,anonymized-id
+NARK-048,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-048,beratBarangBuktiGram,1.4887,hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-048,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-048,pasalTerbukti,Pasal 114 ayat (1),hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-048,tuntutanBulan,102,hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-048,vonisBulan,84,hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-048,dendaRupiah,900000000,hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-048,barangBukti,narkotika; telepon genggam; alat hisap; timbangan digital; kemasan/plastik,hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-048,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan narkotika.,hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-048,keadaanMeringankan,- Terdakwa belum pernah dihukum. - Terdakwa mengakui terus terang perbuatannya dan bersikap sopan. - Terdakwa masih muda sehingga terdapat kesempatan untuk merubah diri. - Terdakwa merupakan tulang punggung keluarga.,hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,33,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-048,sourcePages,"2,33-35",hasil-ekstrasi/putusan_93_pid.sus_2026_pn_grt_20261105061636.txt,"2,33-35",automatic TXT extraction,,compiled-page-references
+NARK-049,caseId,NARK-049,hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,1,automatic TXT extraction,,assigned-id
+NARK-049,nomorPerkara,94/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,2,automatic TXT extraction,,document-header
+NARK-049,pengadilan,Garut,hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,1,automatic TXT extraction,,document-header
+NARK-049,tanggalPutusan,2026-06-08,hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-049,terdakwaKode,Terdakwa-049,hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,1,automatic TXT extraction,,anonymized-id
+NARK-049,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-049,beratBarangBuktiGram,2.6803,hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-049,pasalDakwaan,Pasal 609 ayat (1) jo. Pasal 132 ayat (1),hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-049,pasalTerbukti,Pasal 609 ayat (1),hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-049,tuntutanBulan,84,hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-049,vonisBulan,84,hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-049,dendaRupiah,900000000,hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,28,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-049,barangBukti,narkotika; telepon genggam; kendaraan bermotor; kemasan/plastik,hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-049,keadaanMemberatkan,- Perbuatan terdakwa tidak memutus mata rantai peredaran narkotika dan tidak mendukung Program pemerintah dalam memberantas peredaran Narkotika.,hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-049,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya. - Terdakwa bersikap sopan di persidangan.,hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,27,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-049,sourcePages,"2,27-29",hasil-ekstrasi/putusan_94_pid.sus_2026_pn_grt_20261105061749.txt,"2,27-29",automatic TXT extraction,,compiled-page-references
+NARK-050,caseId,NARK-050,hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,1,automatic TXT extraction,,assigned-id
+NARK-050,nomorPerkara,9/Pid.Sus/2026/PN Grt,hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,2,automatic TXT extraction,,document-header
+NARK-050,pengadilan,Garut,hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,1,automatic TXT extraction,,document-header
+NARK-050,tanggalPutusan,2026-03-10,hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-050,terdakwaKode,Terdakwa-050,hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,1,automatic TXT extraction,,anonymized-id
+NARK-050,jenisNarkotika,sabu/metamfetamina,hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,1,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-050,beratBarangBuktiGram,8.2145,hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,5,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-050,pasalDakwaan,Pasal 114 Ayat (2) jo. Pasal 132 Ayat (1),hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,1,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-050,pasalTerbukti,Pasal 114 ayat (2),hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-050,tuntutanBulan,132,hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,2,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-050,vonisBulan,120,hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-050,dendaRupiah,1500000000,hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-050,barangBukti,narkotika; telepon genggam,hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,30,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-050,keadaanMemberatkan,- Perbuatan Terdakwa tidak mendukung program pemerintah dalam upaya pemberatasan peradaran dan penyalahgunaan narkotika ; - Perbuatan Terdakwa berpotensi mengancam nyawa dan merusak generasi muda bangsa Indonesia; - Terdakwa Pernah dihukum;,hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-050,keadaanMeringankan,- Terdakwa mengakui dan menyesali perbuatannya; - Terdakwa masih muda diharapkan mampu memperbaiki diri dikemudian hari; - Terdakwa merupakan tulang punggung keluarga; ,hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,29,automatic TXT extraction,,automatic-extraction-review-needed
+NARK-050,sourcePages,"1,29-31",hasil-ekstrasi/putusan_9_pid.sus_2026_pn_grt_20261105062414.txt,"1,29-31",automatic TXT extraction,,compiled-page-references
